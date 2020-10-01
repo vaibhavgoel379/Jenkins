@@ -1,5 +1,6 @@
-print("Enter two numbers")
-a=int(input("Enter the first number"))
-b=int(input("Enter the second number"));
-c=a//b
-print("Output ",c)
+a=int(input())
+b=int(input())
+def div(a,b):
+	result=a//b
+	return result
+print(div(a,b))
