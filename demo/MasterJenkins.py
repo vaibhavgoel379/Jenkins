@@ -1,7 +1,7 @@
 import add
 import mul
 import Division
-import sub
+import subtract
 
 add(4,2)
 print(sub(4,2))
