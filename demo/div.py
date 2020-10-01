@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
+a=6
+b=2
 def div(a,b):
 	result=a//b
 	return result
